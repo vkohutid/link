@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/apex-woot/link"
+	"github.com/vkohutid/link"
 )
 
 var exampleHtml = `
